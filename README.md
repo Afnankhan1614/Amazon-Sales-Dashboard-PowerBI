@@ -54,7 +54,7 @@ The objective of this project is to monitor and analyze Amazon sales data to ide
 
 ## 📸 Dashboard Preview
 
-![Amazon Sales Dashboard](Dashboard.png)
+![Amazon Sales Dashboard](Dashboard%20images/dashboard.png)
 
 ---
 
